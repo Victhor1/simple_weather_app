@@ -22,7 +22,9 @@ class HomeController extends GetxController {
         cityName: cityName,
       );
       weatherModel.value = weather;
-    } catch (e) {}
+    } catch (e) {
+      print(e);
+    }
   }
 
   String weatherAnimation({String? mainCondition}) {
