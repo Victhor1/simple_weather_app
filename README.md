@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122829676464521217" height="629" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+[![DEMO](https://github.com/Victhor1/simple_weather_app/blob/main/assets/img.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7122829676464521217)
